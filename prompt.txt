@@ -1,0 +1,5 @@
+THE ONE PROMPT (verbatim, as given to the agent):
+
+Build a tiny browser game: steer a rocket through falling asteroids with arrow keys, score points for each dodge, three lives, game over screen with restart, all in one HTML file.
+
+Game: Meteor Dodge. Controls: arrow keys or touch drag. Score: 1 point per asteroid dodged. Lives: 3.
